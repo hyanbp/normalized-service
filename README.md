@@ -60,4 +60,5 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+Acessando o Swagger do projeto: http://localhost:3000/api/#/
 Nest is [MIT licensed](LICENSE).
